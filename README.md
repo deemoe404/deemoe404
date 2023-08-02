@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Phylalli
-- 👀 I’m interested in Computer Vision & Automation
+- 👀 I’m interested in Computer Vision & Control Theory
 
 <!---
 - 🌱 I’m currently learning ...
