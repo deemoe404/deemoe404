@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Phylalli
+- 👋 Hi, I’m @Phyllali
 - 👀 I’m interested in Computer Vision & Control Theory
 
 <!---
