@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @deemoe
+- 👋 Hi, I’m @deemoe404
 - 👀 I’m interested in Computer Vision & Control Theory
 - 🌱 I’m currently learning HTML & CSS
 
