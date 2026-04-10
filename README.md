@@ -1,14 +1,14 @@
 - 👋 Hi, I’m @deemoe404
 - 👀 I’m interested in Computer Vision & Control Theory
-- 🌱 I’m currently learning HTML & CSS
+- 🌱 I’m currently learning Power Systems & Renewable Energy
 
 <table>
   <tr>
     <th>
-      <img src="https://github-readme-stats.vercel.app/api?username=deemoe404&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&layout=compact" align="center" />
+      <img src="./profile/stats.svg" alt="GitHub stats card" align="center" />
     </th>
     <th>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deemoe404&layout=compact&hide_border=true&langs_count=8" align="center" />
+      <img src="./profile/top-langs.svg" alt="Top languages card" align="center" />
     </th>
   </tr>
 </table>
