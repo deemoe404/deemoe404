@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Sam Cheung's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 50, Total Commits  : 2662, Total PRs: 314, Total Issues: 16, Contributed to (last year): 4</desc>
+        <desc id="descId">Total Stars Earned: 50, Total Commits  : 2688, Total PRs: 314, Total Issues: 16, Contributed to (last year): 4</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 85.6197455283264;
+        stroke-dashoffset: 85.50153992687436;
       }
     }
   
