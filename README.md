@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @deemoe404
+- 👋 Hi, I’m Siamese “deemoe” Cheung.
 - 👀 I’m interested in Computer Vision & Control Theory
 - 🌱 I’m currently learning Power Systems & Renewable Energy
 
