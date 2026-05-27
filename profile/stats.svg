@@ -8,8 +8,8 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">Sam Cheung's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 44, Total Commits  : 3880, Total PRs: 566, Total Issues: 16, Contributed to (last year): 14</desc>
+        <title id="titleId">Siamese Cheung's GitHub Stats, Rank: A-</title>
+        <desc id="descId">Total Stars Earned: 44, Total Commits  : 3938, Total PRs: 577, Total Issues: 16, Contributed to (last year): 14</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 83.73621979939044;
+        stroke-dashoffset: 83.94284827976718;
       }
     }
   
@@ -126,7 +126,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >Sam Cheung's GitHub Stats</text>
+      >Siamese Cheung's GitHub Stats</text>
     </g>
       </g>
     
@@ -192,7 +192,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs"
-      >566</text>
+      >577</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
