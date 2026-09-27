@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Siamese Cheung's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 46, Total Commits  : 5765, Total PRs: 866, Total Issues: 20, Contributed to (last year): 22</desc>
+        <desc id="descId">Total Stars Earned: 46, Total Commits  : 5767, Total PRs: 866, Total Issues: 20, Contributed to (last year): 22</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 73.88633253028063;
+        stroke-dashoffset: 73.88526543021698;
       }
     }
   
